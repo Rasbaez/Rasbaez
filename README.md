@@ -1,9 +1,9 @@
-Oieu sou Roberto Baez
+Oi, eu sou Roberto Baez :sunglasses:
 ====================================================================================================================================
+Web Developer FullStack
 
-Web Developer FullStack-------------------------------
+Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como suporte computacional na MC1, e também buscando minha primeira oportunidade como desenvolvedor no mercado de trabalho, sempre me identifiquei com o mundo da tecnologia, e agora mais do que nunca estou dedicado a este objetivo, (gosto muito de construir APIS :grin: rs).
 
-Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como suporte computacional na MC1, e também buscando minha primeira oportunidade como desenvolvedor no mercado de trabalho, sempre me identifiquei com o mundo da tecnologia, e agora mais do que nunca estou dedicado a este objetivo, (gosto muito de construir APIS :grin:)
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rbaezsp@gmail.com](mailto:rbaezsp@gmail.com)
@@ -25,7 +25,7 @@ Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/roberto-baez-04405469/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

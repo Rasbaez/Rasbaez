@@ -1,8 +1,9 @@
-Hi I'm Roberto Baez
+Oieu sou Roberto Baez
 ====================================================================================================================================
 
-Web Developer FullStack 
--------------------------------
+Web Developer FullStack-------------------------------
+
+Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como suporte computacional na MC1, e também buscando minha primeira oportunidade como desenvolvedor no mercado de trabalho, sempre me identifiquei com o mundo da tecnologia, e agora mais do que nunca estou dedicado a este objetivo, (gosto muito de construir APIS :grin:)
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [rbaezsp@gmail.com](mailto:rbaezsp@gmail.com)

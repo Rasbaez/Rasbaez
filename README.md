@@ -2,7 +2,7 @@ Oi, eu sou Roberto Baez :sunglasses:
 ====================================================================================================================================
 Web Developer FullStack
 
-Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como suporte computacional na MC1, e também buscando minha primeira oportunidade como desenvolvedor no mercado de trabalho, sempre me identifiquei com o mundo da tecnologia, e agora mais do que nunca estou dedicado a este objetivo, (gosto muito de construir APIS :grin: rs).
+Atualmente terminando o curso em Desenvolvimento Web na Trybe, trabalhando como suporte computacional na MC1, e também buscando minha primeira oportunidade como desenvolvedor no mercado de trabalho, sempre me identifiquei com o mundo da tecnologia, e agora mais do que nunca estou dedicado a este objetivo, (gosto muito de construir APIS :grin:).
 
 
 * 🌍  I'm based in São Paulo
